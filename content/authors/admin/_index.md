@@ -77,5 +77,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD Candidate at the Department of Economics, University of Oxford. I am supervised by Francesco Zanetti and Andrea Chiavari. My research interests are in macroeconomics, labour economics & firm dynamics. My CV is available [here](uploads/resume.pdf)
+I am a PhD Candidate at the Department of Economics, University of Oxford. I am supervised by Francesco Zanetti and Andrea Chiavari. My research interests are in macroeconomics, labour economics & firm dynamics. I am also an academic visitor at the Bank of England. My CV is available [here](uploads/resume.pdf).
 {style="text-align: justify;"}
