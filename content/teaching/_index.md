@@ -1,5 +1,6 @@
 ---
 title: Teaching
+layout: staticpage
 ---
 
 ## _Current Teaching_
