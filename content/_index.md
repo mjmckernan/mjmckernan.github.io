@@ -59,9 +59,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      view: compact
   - block: contact
     id: contact
     content:
@@ -73,7 +71,7 @@ sections:
       address:
         street: Manor Road Building, Manor Road
         city: Oxford 
-        postcode: 'OX1 '
+        postcode: 'OX1 3UQ'
         country: United Kingdom
         country_code: UK
 ---
