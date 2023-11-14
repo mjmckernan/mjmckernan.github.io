@@ -45,7 +45,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
           - project
@@ -60,6 +60,13 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: compact
+  - block: teaching
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
   - block: contact
     id: contact
     content:
