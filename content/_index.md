@@ -64,9 +64,8 @@ sections:
     id: teaching
     content:
       title: Teaching
-      filters:
-        folders:
-          - teaching
+      folders:
+      - teaching
   - block: contact
     id: contact
     content:
