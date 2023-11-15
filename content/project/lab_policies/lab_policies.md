@@ -1,15 +1,13 @@
 ---
 title: Revisiting Labour Market Policies in Recessions
-date: February 2023
+date: "February 2023"
 authors: 
-- "Matthew McKernan"
+- ["admin"]
 author_notes: 
 - "University of Oxford"
 links: 
-    - icon_pack: fas
-    - icon: file
     - name: Paper
-    - url: lab_policies.pdf
+    - url: 'uploads/lab_policies.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
