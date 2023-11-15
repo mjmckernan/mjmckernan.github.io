@@ -6,7 +6,7 @@ author_notes:
 - "University of Oxford"
 links: 
     - name: Paper
-    - url: 'jmp.pdf'
+    - link: jmp.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
