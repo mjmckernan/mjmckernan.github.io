@@ -5,10 +5,8 @@ authors:
 author_notes: 
 - "University of Oxford"
 links: 
-    - icon_pack: fas
-    - icon: file
     - name: Paper
-    - url: jmp.pdf
+    - url: 'jmp.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
