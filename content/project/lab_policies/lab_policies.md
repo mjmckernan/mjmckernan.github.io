@@ -2,7 +2,8 @@
 title: Revisiting Labour Market Policies in Recessions
 show_date: false
 subtitle: February 2023
-authors: ["admin"]
+authors: 
+- "[Matthew McKernan](https://mjmckernan.github.io/)"
 author_notes: 
 - "University of Oxford"
 links: 
