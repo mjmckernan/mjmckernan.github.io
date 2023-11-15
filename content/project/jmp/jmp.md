@@ -1,5 +1,7 @@
 ---
 title: Unemployment Insurance and the Allocation of Workers
+summary: Job market paper
+date: ''
 subtitle: November 2023
 authors: ["admin"]
 author_notes: 
