@@ -1,13 +1,12 @@
 ---
 title: Revisiting Labour Market Policies in Recessions
-date: "February 2023"
-authors: 
-- ["admin"]
+subtitle: February 2023
+authors: ["admin"]
 author_notes: 
 - "University of Oxford"
 links: 
     - name: Paper
-    - url: 'uploads/lab_policies.pdf'
+      url: 'uploads/lab_policies.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

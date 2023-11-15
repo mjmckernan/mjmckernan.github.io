@@ -1,13 +1,12 @@
 ---
 title: Unemployment Insurance and the Allocation of Workers
-date: "November 2023"
-authors: 
-- ["admin"]
+subtitle: November 2023
+authors: ["admin"]
 author_notes: 
 - "University of Oxford"
 links: 
     - name: Paper
-    - url: 'uploads/jmp.pdf'
+      url: 'uploads/jmp.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
