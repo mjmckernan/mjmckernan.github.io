@@ -4,6 +4,10 @@ authors:
 - "Matthew McKernan"
 author_notes: 
 - "University of Oxford"
+links: 
+    - icon: file
+    - icon_pack: fas
+    - link: jmp/jmp.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
