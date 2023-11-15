@@ -8,7 +8,7 @@ links:
     - icon_pack: fas
     - icon: file
     - name: Paper
-    - link: jmp.pdf
+    - url: jmp.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

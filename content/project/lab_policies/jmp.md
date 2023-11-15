@@ -9,7 +9,7 @@ links:
     - icon_pack: fas
     - icon: file
     - name: Paper
-    - link: lab_policies.pdf
+    - url: lab_policies.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
