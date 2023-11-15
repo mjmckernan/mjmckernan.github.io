@@ -1,8 +1,8 @@
 ---
 title: Unemployment Insurance and the Allocation of Workers
-show_date: false
-subtitle: November 2023
-authors: ["admin"]
+date: '2023-11-13T00:00:00+01:00'
+authors: 
+- "Matthew McKernan"
 author_notes: 
 - "University of Oxford"
 links: 
