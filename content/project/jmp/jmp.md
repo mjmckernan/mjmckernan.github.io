@@ -8,6 +8,8 @@ author_notes:
 links: 
     - name: Paper
       url: 'uploads/jmp.pdf'
+    - name: Slides
+      url: 'uploads/jmp_slides.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -8,6 +8,8 @@ author_notes:
 links: 
     - name: Paper
       url: 'uploads/lab_policies.pdf'
+    - name: Slides
+      url: 'uploads/lab_policies_slides.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
