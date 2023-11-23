@@ -44,7 +44,7 @@ education:
       year: 2019
     - course: BA in Philosophy, Politics & Economics
       institution: University of Durham
-      year: 2014
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
